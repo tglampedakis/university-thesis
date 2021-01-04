@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "587475095460",
+    "firebase_url": "https://newagent-dlhlga.firebaseio.com",
+    "project_id": "newagent-dlhlga",
+    "storage_bucket": "newagent-dlhlga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587475095460:android:70fded3e53f8b3a8e07b31",
+        "android_client_info": {
+          "package_name": "com.example.androidchatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587475095460-olmnhho75a0lq6iisee5ijiik6l8rdah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwhBe8hAWoryMl2T7e2JOpZtL655dtIRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587475095460-olmnhho75a0lq6iisee5ijiik6l8rdah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

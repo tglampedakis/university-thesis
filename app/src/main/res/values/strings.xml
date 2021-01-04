@@ -1,0 +1,247 @@
+<resources>
+    <string name="app_name">Android Travel Helper</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="chatBotText"><b><u>Chat Bot!</u></b></string>
+
+    <string-array name="mountain_destinations">
+        <item>Neda Canyon</item>
+        <item>Mainalo</item>
+        <item>Rodopi Mountain - Nestos</item>
+        <item>Olympus Mountain</item>
+        <item>Parnonas</item>
+        <item>Tzoumerka</item>
+        <item>Zagorochoria Villages</item>
+        <item>Ziria</item>
+    </string-array>
+
+    <string-array name="sea_destinations">
+        <item>Amorgos</item>
+        <item>Chania - Crete</item>
+        <item>Ikaria</item>
+        <item>Ios</item>
+        <item>Ithaca</item>
+        <item>Kalymnos</item>
+        <item>Kefalonia</item>
+        <item>Corfu</item>
+        <item>Kos</item>
+        <item>Koufonisia</item>
+        <item>Kythnos</item>
+        <item>Leukada</item>
+        <item>Milos</item>
+        <item>Mykonos</item>
+        <item>Naxos</item>
+        <item>Paros</item>
+        <item>Rodos</item>
+        <item>Samos</item>
+        <item>Santorini</item>
+        <item>Serifos</item>
+        <item>Sifnos</item>
+        <item>Skiathos</item>
+        <item>Skopelos</item>
+        <item>Syros</item>
+        <item>Tinos</item>
+        <item>Zante</item>
+    </string-array>
+
+    <string-array name="both_sea_mountain">
+        <item>Kalamata</item>
+        <item>Pilio</item>
+        <item>Chalkidiki</item>
+        <item>Zacharo - Peloponisos</item>
+    </string-array>
+
+    <string-array name="activities">
+        <item>Chania - Crete</item>
+        <item>Kefalonia</item>
+        <item>Leukada</item>
+        <item>Milos</item>
+        <item>Paros</item>
+        <item>Rodos</item>
+        <item>Samos</item>
+        <item>Santorini</item>
+        <item>Tinos</item>
+        <item>Zante</item>
+    </string-array>
+
+    <string-array name="nightlife">
+        <item>Chania - Crete</item>
+        <item>Ios</item>
+        <item>Corfu</item>
+        <item>Kos</item>
+        <item>Leukada</item>
+        <item>Mykonos</item>
+        <item>Paros</item>
+        <item>Sifnos</item>
+        <item>Skiathos</item>
+        <item>Zante</item>
+    </string-array>
+
+    <string-array name="both_activities">
+        <item>Chania - Crete</item>
+        <item>Ios</item>
+        <item>Kefalonia</item>
+        <item>Corfu</item>
+        <item>Kos</item>
+        <item>Leukada</item>
+        <item>Milos</item>
+        <item>Mykonos</item>
+        <item>Paros</item>
+        <item>Rodos</item>
+        <item>Samos</item>
+        <item>Santorini</item>
+        <item>Sifnos</item>
+        <item>Skiathos</item>
+        <item>Tinos</item>
+        <item>Zante</item>
+    </string-array>
+
+    <string-array name="mountain_destinations_description">
+        <item>If you want to discover a canyon that uncovers all of nature\'s magic, then the canyon of Neda will dazzle you. It\'s close to the village of Platania, right after the town of Kyparissia. You can enter the canyon from several points, depending on the distance you wish to cover. The interchanging scenery, the lush vegetation, and the striking rocks will add extra excitement to this marvelous experience. To top it all off, there are waterfalls along the river that fall into small ponds and create wonderful blue-green colorations. A few kilometers west of the small town of Nea Figialia, you\'ll run into Stomio. It\'s the point where the canyon closes up and the river of Neda runs through a cave of monumental beauty. For the most part, actually for all of its parts, it\'s a canyon that entails all of nature\'s wonders and makes your hike really wonderful.</item>
+        <item>Mainalo is the very soul of Arcadia. In its gorges there are passages of unspeakable beauty, almost strange. Gods and heroes have walked on its peaks. Its name means the holy mania, the divine insanity that wildlife brings.</item>
+        <item>The Nestos-Rodopi Trail is a long hike in the Straits of Nestos and the heart of Central Rhodope. The route follows the old paths of the area, which connected the villages and other major destinations. The route is 66 km long and has two official and equal starting points, the city of Xanthi and the end of the road access to the Straits of Nestos, near the village of Galani. At the other end of the route is the Erymanthos Forest Village (or Haidous), an important landmark of the mountainous zone. The intermediate stops take place in the abandoned village of Kromniko, in the town of Stavroupoli, in Kato Karyofyto and in Livaditi.</item>
+        <item>Here you will come with a unique mission: to sit on the "throne of Zeus", having all of Greece at your feet. In Macedonia, the most majestic mountain, Olympus, invites you to discover its magic. On its paths and hidden corners, on tall trees and wild rocks, until you reach the clouds. Car, hiking or mountain sports? All options will reward you with incredible images. But the challenge is always in front of you. You will be able to conquer the top of the gods.</item>
+        <item>Parnonas is the most extensive mountain complex in the Peloponnese. Without exceeding 2000 m., It creates a huge mountainous area, overgrown with firs and black pines, full of meadows and waters. The highest peak of the complex, the conical Megali Tourla (1935 m.), Is located at the northern end of the complex, above a large, beautiful plateau. From this northern landmark to the Leonidio-Sparta road, which marks the southern end of the main Parnonas, lies a central ridge of wooded volumes, with innumerable and intricate branches, creating the mountainous world of northern Kynouria.</item>
+        <item>Pindos is a complex of mountains, mountain ranges, gorges and ravines. Perhaps the most imposing Pindos mountain range is the Tzoumerka mountain range. The Tzoumerka or Athamanika mountains, surrounded by the rivers Arachthos, Aspropotamos (Acheloos) and their countless tributaries, stand out for the wild beauty of the landscapes and the many waters giving the visitor the opportunity to enjoy the natural beauties and get to know them. their deliveries.</item>
+        <item>Zagorochoria is a network of 46 beautiful villages, where one can find whatever one is looking for.
+Villages with life or tranquility, villages with incredible views or villages in the forest.
+Forests but also dry peaks, crystal clear rivers such as Voidomatis and alpine lakes, such as the drakolimnes.
+In Zagorochoria the visitor can also admire the traditional architecture of stone and wood which are the main materials from which the houses were made and still are made (Most villages in Zagori are traditional settlements with the decree of Zagori).
+The Vikos gorge (or Vikos gorge) is also a sight to behold not only to see but also to walk as it is crossed by a European signposted path.
+The activities you can do a lot. Some of them are hiking, horseback riding, climbing, mountaineering, rafting, canoeing / kayaking, mountain biking.
+The world is more than hospitable and friendly.
+The traditional food is wonderful! Don\'t forget to try the famous pies, pastries and local meats that are wonderful. Accompany your meal with nice red wine of the area, and spend your evenings drinking the local tsipouro.</item>
+        <item>Mount Ziria, also known as Kyllini, is located on the southeast side of the Prefecture of Corinth, while its most remote settlement stretches 160 km from Athens. Its highest peak reaches 2,374 meters and is called - paradoxically (!) - High Peak, while it is one of the few Greek mountains that has eight peaks over 2,000 meters. According to one version, the name Ziria comes from the Slavic word zeri, which means acorn.</item>
+    </string-array>
+
+    <string-array name="sea_destinations_description">
+        <item>Amorgos, the easternmost island of the Cyclades, with its elongated shape seems to protect the eastern small Cyclades. Proud, it stands in the center of the South Aegean Sea, being the crossroads where the North meets the South. It is the "exit" of the islands of the eastern Aegean to the coasts of Asia Minor.</item>
+        <item>Chania will steal your heart at first sight. Romans, Byzantines, Saracens, Venetians, Turks passed before you, creating this multicultural corner of Crete. Walks in the port, in the Venetian lighthouse, in the Grand Arsenal, in Kum Kapi, in Halepa. Accommodation in mansions that have become luxury hostels and entertainment in cafes, bars, restaurants and cultural venues.</item>
+        <item>Ikaria is a special destination, an island in the northeastern Aegean with wild beauty and magical atmosphere. We gathered here information about the island, the holidays in Ikaria, beaches, villages, food, festivals and ferry services. Book ferries to Ikaria at Ferryhopper easily, quickly and cheaply.</item>
+        <item>Ios island in Greece is a famous tourist destination, attracting visitors with its golden beaches and the characteristic Aegean architecture. Ios is well known as the party island with the lively atmosphere and the endless fun.</item>
+        <item>Worldwide famous as the home of Odysseus, Ithaca symbolises the return to the haven, the discovery and the fulfillment. Despite its proximity to Kefalonia (Cephalonia) (2km northeast) it is much more peaceful, quiet and undiscovered from it, thus being an ideal place for alternative activities and a holiday living up to the standards of the most demanding ones amongst us. With its 27-kilometre long and 6.5-kilometre large mountainous surface, it boasts plenty of hiking as well as mountain bike trails in a sequence of blue and green alongside the coast and through olive, cypress, pine, oak, arbutus and carob trees up on the hills.</item>
+        <item>Kalymnos Greece is located close to the Turkish coast, at the southeastern Aegean Sea and belongs to the Dodecanese group of islands. Thanks to its location, it\'s perfect for island hopping to the nearby islands of Kos, Leros, and Patmos. Kalymnos is famous for one thing in particular: its rocky landscape. Due to that, the island has shaped up to be a top climbing destination and already counts many climbing clubs. What\'s more, the International Climbing Festival is taking place every year in Kalymnos, attracting climbers from all over the world!</item>
+        <item>Ideally located in the heart of the Ionian Sea, Kefalonia Greece has inspired many with its beauty and has been the filming location of the famous movie "Captain Corelli\'s Mandolin". Indeed, wherever you set your eyes on, you\'ll see nature at its best! Kefalonia is not only the biggest Greek island of the Ionian but also one of the most beautiful ones! Boasting a breathtaking natural landscape with exotic beaches, picturesque fishing villages and magical underground caves, Kefalonia is one of the best destinations in Greece for nature lovers!</item>
+        <item>The cosmopolitan Corfu is perhaps the most famous island in the Ionian Islands and one of the most popular in the Mediterranean. An attraction of hundreds of thousands of visitors each year, but also a source of inspiration for all the fine arts, with a huge cultural heritage, has a special glamor, which, combined with the natural beauty, wonderful climate, beaches and interesting attractions, makes it one of the most attractive destinations for Greek and foreign travelers.</item>
+        <item>Kos is the second most popular island of Dodecanese, after Rhodes. Known for its historical sites, beautiful beaches, and lush vegetation, Cos is visited by almost 1 million tourists every year!</item>
+        <item>Koufonisia is an island in the Small Cyclades, a dream destination for a relaxing holiday and diving in crystal clear waters. On this page you will find information about Pano and Kato Koufonisi, holidays there, beaches, excursions, routes, food, ferry services.</item>
+        <item>Kythnos, the island of simplicity and hospitality, will lead you on Cycladic paths, to white settlements, to the beautiful villages of Chora and Dryopida and to 99 beaches, which will make you realize quickly that you are in an earthly paradise.</item>
+        <item>Lefkada took its name from the famous white cliffs of Cape Lefkada, where the ancient temple of Apollo is located, the place where, according to tradition, the lesbian poet Sappho committed suicide, falling from the rocks. Remaining in the same mythological theme, do not miss the tour with the famous boat Odyssey, a colorful copy of an ancient Greek pentecost. You can also explore abandoned monasteries in the mountains, take a dip around the waterfalls in Nidri and swim in some of the most famous and beautiful beaches in Greece.</item>
+        <item>Milos, the island where the famous statue of Aphrodite was discovered, is located at the southwestern tip of the Cyclades. A volcanic island, with intense geomorphological and historical interest, is the ideal destination for those who want to explore endless beaches and the lunar landscape of the island.</item>
+        <item>Mykonos, the famous island of the winds in the heart of the Cyclades, is said to have been named after the hero Mykonos, son of the king of Delos Anios, who was in turn the son of Apollo and the nymph Roius. According to mythological tradition, the giants killed by Hercules were buried here, which is why the island is scattered on large rocks. world level, while in fact many foreigners identify it with the Greek summer, fun and having a good time.</item>
+        <item>Naxos is the largest island in the Cyclades and is located right in the center. It offers a wealth of different experiences to visitors, combining traditional elements with modern comforts, quiet getaways and lively nightlife, enchanting beaches and amazing food.</item>
+        <item>Paros is surrounded by many beautiful beaches that you can choose depending on your type. If you are a beach bar to the point of exhaustion, go straight to Punta Beach on the east side of the island or to the first part of Santa Maria, near Naoussa.</item>
+        <item>The capital of the Dodecanese and the fourth largest Greek island after Crete, Evia and Lesvos, is consistently one of the most popular tourist destinations in the country. An island of intense contrasts, Rhodes harmoniously combines the medieval with the traditional element, the lacy beaches with the pine-covered mountains, mountain villages with coastal settlements, archeological sites, medieval monuments, landscaping and urban cosmopolitan tourist resorts. every expectation.</item>
+        <item>Samos dominates the eastern Aegean. Its name, "Sami" in antiquity, means "High", due to its imposing landscape with its many dominant peaks. The beautiful island is the birthplace of great personalities and important pioneers in the field of science and art of the ancient world. The philosopher Epicurus, the great astronomer Aristarchus (founder of the heliocentric theory), scholars, scientists and great artists as well as the greatest mystic of all time, Pythagoras. It is the "home" of Hera and the place that hosted Herodotus and Aesop.</item>
+        <item>Santorini (or Thira) is the southernmost island of the Cyclades, and its special beauty ranks it among the most popular tourist destinations in the world. An island ideal for a romantic vacation, with the Oia sunset as a postcard creating a magical setting in the Aegean. In Santorini, its whitewashed small houses stand out, spread over the famous Caldera, the only inhabitable place in the world, as well as the colors of the houses in Oia and Imerovigli. The volcanic landscape of the island with black and red stone is impressive, while the beaches with pebbles or colored sand, complete the cinematic setting of Santorini.</item>
+        <item>Serifos is a picturesque and idyllic island in the Cyclades and an ideal holiday destination. It is considered perhaps the most characteristic Cycladic island that has remained unchanged by mass tourism. The capital of the island is the town of Serifos, which is dominated by traditional Cycladic architecture and where you will find many options for entertainment and accommodation. At the same time, the beautiful sandy beaches and the rocky geological relief complete the beauty of Serifos and will surely impress you.</item>
+        <item>Sifnos is an island full of hidden beauties. It offers many different options to travelers, while maintaining a low profile and a calm atmosphere. Picturesque settlements, charming beaches, gorgeous cuisine, exquisite traditional products and beautiful paths await you to discover! The island\'s capital, Apollonia, enchants with its Cycladic architecture, stunning views and vibrant nightlife. The bars in its picturesque alleys will definitely give you unforgettable nights!</item>
+        <item>Skiathos is the best choice of island if you are a lover of nature and fun. From deserted, in the vegetation, beaches to the most lively places with endless parties, Skiathos offers you dozens of different ways to spend the most magical holidays. The island\'s capital is Skiathos Town but you will find options for entertainment for accommodation the whole island. Don\'t forget the possibility of island hopping, around Skiathos, to get to know the other beauties of the Sporades.</item>
+        <item>Skopelos is one of the four islands of the Sporades and in recent years has become especially famous thanks to the Hollywood musical ‘Mamma Mia\' which was shot in locations on the island. But Skopelos is much more than a beautiful movie setting: it is a green island where pines almost touch the turquoise waters of the sea, an excellent choice for a quiet vacation away from the noise of the city.</item>
+        <item>Syros is the largest island of the Cyclades in terms of population and in the past has experienced impressive cultural and economic development. The capital and port is Ermoupolis, a beautiful, manorial city, the like of which you will not find on any other island in Greece! The neoclassical buildings, the imposing mansions and its liveliness will fascinate you. This is a real jewel of the Aegean!</item>
+        <item>Tinos is a beautiful island in the Northern Cyclades, between Andros and Mykonos, which has a strong religious, historical and artistic character. Although famous for the Holy Temple of the Virgin Mary and its pilgrimage, Tinos will also win you over with its aesthetics, tradition, villages and landscapes.</item>
+        <item>Zakynthos or Zante is an island of great natural beauty in the south-east of the Ionian Sea. It is an ideal holiday destination as it combines beautiful beaches, diverse natural landscapes, fun water activities and vibrant nightlife.</item>
+    </string-array>
+
+    <string-array name="both_sea_mountain_description">
+        <item>Kalamata - the capital and central port of Messinia - is revealed to us in the innards of the Gulf of Messinia, probably founded on the site of the Homeric city of Pharaoh. The shadow of Taygetos, the endless silver and gold olive groves that touch the shore and an endless beach paint the charismatic state with the most beautiful colors. After the liberation from the Turks, thanks to the products of the fertile Messinian land (oil, raisins, figs, etc.), it developed into a rich urban center and an important port.</item>
+        <item>Pelion is a verdant mountain, next to the city of Volos with an altitude of 1624m. It stretches from northwest to southeast and offers unique images of natural beauty and beautiful landscapes that combine mountain and sea.</item>
+        <item>They say that nowhere in Greece can boast beaches like those of Halkidiki. The region has the perfect combination of that distinctive Greek light, unspoiled landscapes, colors and fragrances. And the glorious natural setting is complemented by the rich culinary fare of the region and the living religious traditions of its people, guaranteed in a host of feast days and other ceremonies and rituals.</item>
+        <item>Zacharo is a beautiful small town in the prefecture of Ilia. It is located in the southwestern part of the prefecture of Ilia and is 30 km from the capital of the prefecture, Pyrgos. The city of Zacharo is the capital of the homonymous municipality, to which 18 other municipal districts belong.</item>
+    </string-array>
+
+    <string-array name="activities_description">
+        <item>Chania will steal your heart at first sight. Romans, Byzantines, Saracens, Venetians, Turks passed before you, creating this multicultural corner of Crete. Walks in the port, in the Venetian lighthouse, in the Grand Arsenal, in Kum Kapi, in Halepa. Accommodation in mansions that have become luxury hostels and entertainment in cafes, bars, restaurants and cultural venues.</item>
+        <item>Ideally located in the heart of the Ionian Sea, Kefalonia Greece has inspired many with its beauty and has been the filming location of the famous movie "Captain Corelli\'s Mandolin". Indeed, wherever you set your eyes on, you\'ll see nature at its best! Kefalonia is not only the biggest Greek island of the Ionian but also one of the most beautiful ones! Boasting a breathtaking natural landscape with exotic beaches, picturesque fishing villages and magical underground caves, Kefalonia is one of the best destinations in Greece for nature lovers!</item>
+        <item>Lefkada took its name from the famous white cliffs of Cape Lefkada, where the ancient temple of Apollo is located, the place where, according to tradition, the lesbian poet Sappho committed suicide, falling from the rocks. Remaining in the same mythological theme, do not miss the tour with the famous boat Odyssey, a colorful copy of an ancient Greek pentecost. You can also explore abandoned monasteries in the mountains, take a dip around the waterfalls in Nidri and swim in some of the most famous and beautiful beaches in Greece.</item>
+        <item>Milos, the island where the famous statue of Aphrodite was discovered, is located at the southwestern tip of the Cyclades. A volcanic island, with intense geomorphological and historical interest, is the ideal destination for those who want to explore endless beaches and the lunar landscape of the island.</item>
+        <item>Paros is surrounded by many beautiful beaches that you can choose depending on your type. If you are a beach bar to the point of exhaustion, go straight to Punta Beach on the east side of the island or to the first part of Santa Maria, near Naoussa.</item>
+        <item>The capital of the Dodecanese and the fourth largest Greek island after Crete, Evia and Lesvos, is consistently one of the most popular tourist destinations in the country. An island of intense contrasts, Rhodes harmoniously combines the medieval with the traditional element, the lacy beaches with the pine-covered mountains, mountain villages with coastal settlements, archeological sites, medieval monuments, landscaping and urban cosmopolitan tourist resorts. every expectation.</item>
+        <item>Samos dominates the eastern Aegean. Its name, "Sami" in antiquity, means "High", due to its imposing landscape with its many dominant peaks. The beautiful island is the birthplace of great personalities and important pioneers in the field of science and art of the ancient world. The philosopher Epicurus, the great astronomer Aristarchus (founder of the heliocentric theory), scholars, scientists and great artists as well as the greatest mystic of all time, Pythagoras. It is the "home" of Hera and the place that hosted Herodotus and Aesop.</item>
+        <item>Santorini (or Thira) is the southernmost island of the Cyclades, and its special beauty ranks it among the most popular tourist destinations in the world. An island ideal for a romantic vacation, with the Oia sunset as a postcard creating a magical setting in the Aegean. In Santorini, its whitewashed small houses stand out, spread over the famous Caldera, the only inhabitable place in the world, as well as the colors of the houses in Oia and Imerovigli. The volcanic landscape of the island with black and red stone is impressive, while the beaches with pebbles or colored sand, complete the cinematic setting of Santorini.</item>
+        <item>Tinos is a beautiful island in the Northern Cyclades, between Andros and Mykonos, which has a strong religious, historical and artistic character. Although famous for the Holy Temple of the Virgin Mary and its pilgrimage, Tinos will also win you over with its aesthetics, tradition, villages and landscapes.</item>
+        <item>Zakynthos or Zante is an island of great natural beauty in the south-east of the Ionian Sea. It is an ideal holiday destination as it combines beautiful beaches, diverse natural landscapes, fun water activities and vibrant nightlife.</item>
+    </string-array>
+
+    <string-array name="nightlife_description">
+        <item>Chania will steal your heart at first sight. Romans, Byzantines, Saracens, Venetians, Turks passed before you, creating this multicultural corner of Crete. Walks in the port, in the Venetian lighthouse, in the Grand Arsenal, in Kum Kapi, in Halepa. Accommodation in mansions that have become luxury hostels and entertainment in cafes, bars, restaurants and cultural venues.</item>
+        <item>Ios island in Greece is a famous tourist destination, attracting visitors with its golden beaches and the characteristic Aegean architecture. Ios is well known as the party island with the lively atmosphere and the endless fun.</item>
+        <item>The cosmopolitan Corfu is perhaps the most famous island in the Ionian Islands and one of the most popular in the Mediterranean. An attraction of hundreds of thousands of visitors each year, but also a source of inspiration for all the fine arts, with a huge cultural heritage, has a special glamor, which, combined with the natural beauty, wonderful climate, beaches and interesting attractions, makes it one of the most attractive destinations for Greek and foreign travelers.</item>
+        <item>Kos is the second most popular island of Dodecanese, after Rhodes. Known for its historical sites, beautiful beaches, and lush vegetation, Cos is visited by almost 1 million tourists every year!</item>
+        <item>Lefkada took its name from the famous white cliffs of Cape Lefkada, where the ancient temple of Apollo is located, the place where, according to tradition, the lesbian poet Sappho committed suicide, falling from the rocks. Remaining in the same mythological theme, do not miss the tour with the famous boat Odyssey, a colorful copy of an ancient Greek pentecost. You can also explore abandoned monasteries in the mountains, take a dip around the waterfalls in Nidri and swim in some of the most famous and beautiful beaches in Greece.</item>
+        <item>Mykonos, the famous island of the winds in the heart of the Cyclades, is said to have been named after the hero Mykonos, son of the king of Delos Anios, who was in turn the son of Apollo and the nymph Roius. According to mythological tradition, the giants killed by Hercules were buried here, which is why the island is scattered on large rocks. world level, while in fact many foreigners identify it with the Greek summer, fun and having a good time.</item>
+        <item>Paros is surrounded by many beautiful beaches that you can choose depending on your type. If you are a beach bar to the point of exhaustion, go straight to Punta Beach on the east side of the island or to the first part of Santa Maria, near Naoussa.</item>
+        <item>Sifnos is an island full of hidden beauties. It offers many different options to travelers, while maintaining a low profile and a calm atmosphere. Picturesque settlements, charming beaches, gorgeous cuisine, exquisite traditional products and beautiful paths await you to discover! The island\'s capital, Apollonia, enchants with its Cycladic architecture, stunning views and vibrant nightlife. The bars in its picturesque alleys will definitely give you unforgettable nights!</item>
+        <item>Skiathos is the best choice of island if you are a lover of nature and fun. From deserted, in the vegetation, beaches to the most lively places with endless parties, Skiathos offers you dozens of different ways to spend the most magical holidays. The island\'s capital is Skiathos Town but you will find options for entertainment for accommodation the whole island. Don\'t forget the possibility of island hopping, around Skiathos, to get to know the other beauties of the Sporades.</item>
+        <item>Zakynthos or Zante is an island of great natural beauty in the south-east of the Ionian Sea. It is an ideal holiday destination as it combines beautiful beaches, diverse natural landscapes, fun water activities and vibrant nightlife.</item>
+    </string-array>
+
+    <string-array name="both_activities_description">
+        <item>Chania will steal your heart at first sight. Romans, Byzantines, Saracens, Venetians, Turks passed before you, creating this multicultural corner of Crete. Walks in the port, in the Venetian lighthouse, in the Grand Arsenal, in Kum Kapi, in Halepa. Accommodation in mansions that have become luxury hostels and entertainment in cafes, bars, restaurants and cultural venues.</item>
+        <item>Ios island in Greece is a famous tourist destination, attracting visitors with its golden beaches and the characteristic Aegean architecture. Ios is well known as the party island with the lively atmosphere and the endless fun.</item>
+        <item>Ideally located in the heart of the Ionian Sea, Kefalonia Greece has inspired many with its beauty and has been the filming location of the famous movie "Captain Corelli\'s Mandolin". Indeed, wherever you set your eyes on, you\'ll see nature at its best! Kefalonia is not only the biggest Greek island of the Ionian but also one of the most beautiful ones! Boasting a breathtaking natural landscape with exotic beaches, picturesque fishing villages and magical underground caves, Kefalonia is one of the best destinations in Greece for nature lovers!</item>
+        <item>The cosmopolitan Corfu is perhaps the most famous island in the Ionian Islands and one of the most popular in the Mediterranean. An attraction of hundreds of thousands of visitors each year, but also a source of inspiration for all the fine arts, with a huge cultural heritage, has a special glamor, which, combined with the natural beauty, wonderful climate, beaches and interesting attractions, makes it one of the most attractive destinations for Greek and foreign travelers.</item>
+        <item>Kos is the second most popular island of Dodecanese, after Rhodes. Known for its historical sites, beautiful beaches, and lush vegetation, Cos is visited by almost 1 million tourists every year!</item>
+        <item>Lefkada took its name from the famous white cliffs of Cape Lefkada, where the ancient temple of Apollo is located, the place where, according to tradition, the lesbian poet Sappho committed suicide, falling from the rocks. Remaining in the same mythological theme, do not miss the tour with the famous boat Odyssey, a colorful copy of an ancient Greek pentecost. You can also explore abandoned monasteries in the mountains, take a dip around the waterfalls in Nidri and swim in some of the most famous and beautiful beaches in Greece.</item>
+        <item>Milos, the island where the famous statue of Aphrodite was discovered, is located at the southwestern tip of the Cyclades. A volcanic island, with intense geomorphological and historical interest, is the ideal destination for those who want to explore endless beaches and the lunar landscape of the island.</item>
+        <item>Mykonos, the famous island of the winds in the heart of the Cyclades, is said to have been named after the hero Mykonos, son of the king of Delos Anios, who was in turn the son of Apollo and the nymph Roius. According to mythological tradition, the giants killed by Hercules were buried here, which is why the island is scattered on large rocks. world level, while in fact many foreigners identify it with the Greek summer, fun and having a good time.</item>
+        <item>Paros is surrounded by many beautiful beaches that you can choose depending on your type. If you are a beach bar to the point of exhaustion, go straight to Punta Beach on the east side of the island or to the first part of Santa Maria, near Naoussa.</item>
+        <item>The capital of the Dodecanese and the fourth largest Greek island after Crete, Evia and Lesvos, is consistently one of the most popular tourist destinations in the country. An island of intense contrasts, Rhodes harmoniously combines the medieval with the traditional element, the lacy beaches with the pine-covered mountains, mountain villages with coastal settlements, archeological sites, medieval monuments, landscaping and urban cosmopolitan tourist resorts. every expectation.</item>
+        <item>Samos dominates the eastern Aegean. Its name, "Sami" in antiquity, means "High", due to its imposing landscape with its many dominant peaks. The beautiful island is the birthplace of great personalities and important pioneers in the field of science and art of the ancient world. The philosopher Epicurus, the great astronomer Aristarchus (founder of the heliocentric theory), scholars, scientists and great artists as well as the greatest mystic of all time, Pythagoras. It is the "home" of Hera and the place that hosted Herodotus and Aesop.</item>
+        <item>Santorini (or Thira) is the southernmost island of the Cyclades, and its special beauty ranks it among the most popular tourist destinations in the world. An island ideal for a romantic vacation, with the Oia sunset as a postcard creating a magical setting in the Aegean. In Santorini, its whitewashed small houses stand out, spread over the famous Caldera, the only inhabitable place in the world, as well as the colors of the houses in Oia and Imerovigli. The volcanic landscape of the island with black and red stone is impressive, while the beaches with pebbles or colored sand, complete the cinematic setting of Santorini.</item>
+        <item>Sifnos is an island full of hidden beauties. It offers many different options to travelers, while maintaining a low profile and a calm atmosphere. Picturesque settlements, charming beaches, gorgeous cuisine, exquisite traditional products and beautiful paths await you to discover! The island\'s capital, Apollonia, enchants with its Cycladic architecture, stunning views and vibrant nightlife. The bars in its picturesque alleys will definitely give you unforgettable nights!</item>
+        <item>Skiathos is the best choice of island if you are a lover of nature and fun. From deserted, in the vegetation, beaches to the most lively places with endless parties, Skiathos offers you dozens of different ways to spend the most magical holidays. The island\'s capital is Skiathos Town but you will find options for entertainment for accommodation the whole island. Don\'t forget the possibility of island hopping, around Skiathos, to get to know the other beauties of the Sporades.</item>
+        <item>Tinos is a beautiful island in the Northern Cyclades, between Andros and Mykonos, which has a strong religious, historical and artistic character. Although famous for the Holy Temple of the Virgin Mary and its pilgrimage, Tinos will also win you over with its aesthetics, tradition, villages and landscapes.</item>
+        <item>Zakynthos or Zante is an island of great natural beauty in the south-east of the Ionian Sea. It is an ideal holiday destination as it combines beautiful beaches, diverse natural landscapes, fun water activities and vibrant nightlife.</item>
+    </string-array>
+
+    <string-array name="random_description">
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+        <item>Press the image for further information.</item>
+    </string-array>
+</resources>
